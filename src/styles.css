@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.background {
+
+   background-color:rgb(10, 0, 29);
+    
+}
+
+.comments {
+    background-image: url(/images/bg-quotes.png) !important;
+    background-repeat: no-repeat !important;
+   background-color:rgb(10, 0, 29);
+   margin: 20px !important;
+}
