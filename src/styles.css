@@ -7,12 +7,22 @@
 }
 
 .comments {
-    background-image: url(/images/bg-quotes.png) !important;
-    background-repeat: no-repeat !important;
-   background-color:rgb(10, 0, 29);
+   background-image: url(/images/bg-quotes.png) !important;
+   background-repeat: no-repeat !important;
    margin: 20px !important;
 }
 
 .gradient-button{
    background: linear-gradient(90deg, #4FC7D5, #42B0D1);
+}
+
+.desktopbg {
+   background-image: url(/images/bg-curvy-desktop.svg) !important;
+}
+
+.mobilebg{
+   background-image: url(/images/bg-curvy-mobile.svg) !important;
+}
+.bg-back {
+   background-color: #181E2A !important;
 }
