@@ -3,9 +3,7 @@
 @tailwind utilities;
 
 .background {
-
    background-color: #1C2230;
-    
 }
 
 .comments {
@@ -13,4 +11,8 @@
     background-repeat: no-repeat !important;
    background-color:rgb(10, 0, 29);
    margin: 20px !important;
+}
+
+.gradient-button{
+   background: linear-gradient(90deg, #4FC7D5, #42B0D1);
 }
