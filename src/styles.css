@@ -5,23 +5,22 @@
 .background {
    background-color: #1C2230;
 }
-
 .comments {
-   background-image: url(/images/bg-quotes.png) !important;
+   background-image: url('./images/bg-quotes.png') !important;
    background-repeat: no-repeat !important;
-  
 }
+
 
 .gradient-button{
    background: linear-gradient(90deg, #4FC7D5, #42B0D1);
 }
 
 .desktopbg {
-   background-image: url(/images/bg-curvy-desktop.svg) !important;
+   background-image: url(./images/bg-curvy-desktop.svg) !important;
 }
 
 .mobilebg{
-   background-image: url(/images/bg-curvy-mobile.svg) !important;
+   background-image: url(./images/bg-curvy-mobile.svg) !important;
 }
 .bg-back {
    background-color: #181F2B!important;
